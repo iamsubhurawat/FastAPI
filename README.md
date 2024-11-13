@@ -4,7 +4,7 @@
 
 2. Create user for API testing: 
    Create a user to login and performing CRUD operations using FastAPI endpoints.
-   run the python script "create_user.py"
+   run the python script with the command "python create_user.py"
 
 3. Run the server: 
    Run the server by using the command "uvicorn main:app --reload"
